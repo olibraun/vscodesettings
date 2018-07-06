@@ -1,0 +1,11 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "[latex]": {
+        "files.encoding": "windows1252"
+},
+"files.associations": {
+    "*.tex": "latex"
+}
+}
