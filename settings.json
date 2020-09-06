@@ -2,10 +2,11 @@
     "telemetry.enableTelemetry": false,
     "workbench.startupEditor": "newUntitledFile",
     "editor.tabSize": 2,
+    "window.titleBarStyle": "custom",
     "[latex]": {
         "files.encoding": "windows1252"
-},
-"files.associations": {
-    "*.tex": "latex"
-}
+    },
+    "files.associations": {
+      "*.tex": "latex"
+    }
 }
